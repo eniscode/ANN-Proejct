@@ -12,7 +12,8 @@ Günümüz spor dünyasında **veri analitiği** ve **yapay zekâ**, takımları
 
 ## 🎯 Proje Amacı
 
-Amaç, oyuncuların oyun tarzı ve fiziksel becerilerine göre pozisyonlarını tahmin edebilecek bir model oluşturmaktır. Bu model sayesinde, gözlem gerektirmeden, sadece veriye dayalı bir pozisyon analizi yapılabilir.
+Amaç, oyuncuların oyun tarzı ve fiziksel becerilerine göre pozisyonlarını tahmin edebilecek bir model oluşturmaktır. Bu model <img width="444" alt="Ekran Resmi 2025-06-16 20 07 43" src="https://github.com/user-attachments/assets/854067f4-4e65-4fe0-bd9c-afeb6ead679f" />
+sayesinde, gözlem gerektirmeden, sadece veriye dayalı bir pozisyon analizi yapılabilir.
 
 ---
 
@@ -46,8 +47,10 @@ Aşağıdaki grafiklerde veri dengesi ve eğitim sürecine ait doğruluk-kayıp 
 ### 🔹 Eğitim Süreci (Accuracy / Loss)
 
 ![Grafik](https://github.com/user-attachments/assets/7d925f76-3f15-4d81-9df9-802e43ec947a)
+### 🔹 Sonuçlar Ve Değerler
 <img width="465" alt="Ekran Resmi 2025-06-16 20 16 45" src="https://github.com/user-attachments/assets/e3f1c614-620c-4d80-b0a0-9825bd224ce7" />
 
+![Uploading Ekran Resmi 2025-06-16 20.07.43.png…]()
 
 ---
 
