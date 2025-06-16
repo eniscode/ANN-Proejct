@@ -1,2 +1,8 @@
 # ANN-Proejct
 Yapay Sinir Ağları Kullanarak Futbolcunun Fiziksel Özelliklerine Göre Mevki Tahmini
+Günümüz spor dünyasında veri analitiği ve yapay zekâ, takımların ve oyuncuların performanslarını analiz etmede giderek daha önemli bir rol oynamaktadır. Özellikle futbol gibi çok yönlü sporlarda, oyuncuların hangi pozisyonda oynamaya daha uygun olduğunu doğru bir şekilde tespit etmek, teknik ekipler için büyük bir avantaj sağlar. Bu projede, yapay zekâ destekli bir sınıflandırma modeli geliştirilerek futbolcuların pozisyonlarını veriler üzerinden tahmin etmeye çalıştım.
+Projemin temel amacı, oyunculara ait belirli istatistiksel özellikler kullanılarak hangi pozisyonda (örneğin forvet, orta saha, defans, kaleci) oynadıklarını tahmin edebilen bir yapay sinir ağı (Artificial Neural Network) modelinin geliştirilmesidir. Bu sayede, elimizdeki verilerden yola çıkarak oyuncuların oyun tarzı ve becerileri hakkında çıkarımlar yapılması hedeflenmiştir.
+Çalışmamda, veri analizi ve ön işleme adımlarının ardından Sequential yapıda bir sinir ağı modeli kurulmuş, farklı katmanlarda ReLU ve Softmax gibi aktivasyon fonksiyonları kullanılmış, ayrıca modelin öğrenmesini daha sağlıklı hale getirmek için Batch Normalization ve Dropout tekniklerinden faydalanılmıştır.
+Modelin eğitimi ve test süreci boyunca doğruluk (accuracy) ve kayıp (loss) değerleri takip edilmiş, overfitting gözlemlenmemiştir. Projenin sonunda elde edilen sınıflandırma başarısı, veri biliminin spora nasıl katkı sağlayabileceğini somut bir şekilde göstermektedir.
+Bu sunumda, projenin aşamalarını, kullanılan yöntemleri ve elde edilen sonuçları sizlere detaylı bir şekilde aktarmayı amaçlıyorum.
+![image](https://github.com/user-attachments/assets/b98bf640-1d7a-4dc1-a906-655af2ce5992)
