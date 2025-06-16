@@ -49,8 +49,7 @@ Aşağıdaki grafiklerde veri dengesi ve eğitim sürecine ait doğruluk-kayıp 
 ![Grafik](https://github.com/user-attachments/assets/7d925f76-3f15-4d81-9df9-802e43ec947a)
 ### 🔹 Sonuçlar Ve Değerler
 <img width="465" alt="Ekran Resmi 2025-06-16 20 16 45" src="https://github.com/user-attachments/assets/e3f1c614-620c-4d80-b0a0-9825bd224ce7" />
-
-![Uploading Ekran Resmi 2025-06-16 20.07.43.png…]()
+<img width="444" alt="Ekran Resmi 2025-06-16 20 07 43" src="https://github.com/user-attachments/assets/c094a609-7b43-42cf-9f9c-27c84fcd8bc7" />
 
 ---
 
