@@ -8,3 +8,4 @@ Bu sunumda, projenin aşamalarını, kullanılan yöntemleri ve elde edilen sonu
 
 ![Grafik](https://github.com/user-attachments/assets/7d925f76-3f15-4d81-9df9-802e43ec947a)
 <img width="444" alt="Ekran Resmi 2025-06-16 20 07 43" src="https://github.com/user-attachments/assets/b1c7b7bf-ce0e-4343-a2c0-0a57ca3d43b4" />
+<img width="465" alt="Ekran Resmi 2025-06-16 20 16 45" src="https://github.com/user-attachments/assets/71546fc6-e12f-499c-9480-4c4b1326277e" />
