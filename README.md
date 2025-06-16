@@ -7,3 +7,4 @@ Modelin eğitimi ve test süreci boyunca doğruluk (accuracy) ve kayıp (loss) d
 Bu sunumda, projenin aşamalarını, kullanılan yöntemleri ve elde edilen sonuçları sizlere detaylı bir şekilde aktarmayı amaçlıyorum.![Tablo](https://github.com/user-attachments/assets/50dd488d-3005-44cf-aa92-e3337b2a36bb)
 
 ![Grafik](https://github.com/user-attachments/assets/7d925f76-3f15-4d81-9df9-802e43ec947a)
+<img width="444" alt="Ekran Resmi 2025-06-16 20 07 43" src="https://github.com/user-attachments/assets/b1c7b7bf-ce0e-4343-a2c0-0a57ca3d43b4" />
